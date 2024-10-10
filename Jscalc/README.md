@@ -1,6 +1,6 @@
 # 🦑 jscalc
 
-To solve the "jscalc" challenge, we are dealing with a JavaScript calculator vulnerable to command injection due to its use of the eval() function.
+To solve this challenge, we are dealing with a JavaScript calculator vulnerable to command injection due to its use of the eval() function.
 
 ## To exploit the vulnerability:
 
